@@ -1,93 +1,54 @@
 name: GitHub Snake Game
 
-
-
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
     - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
   workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
   push:
-
     branches:
-
       - main
 
-
-
 jobs:
-
   generate:
-
     runs-on: ubuntu-latest
-
     timeout-minutes: 10
-
-
-
     steps:
-
-      # Step 1: Checkout the repository
-
+      # Step 1: Checkout repository
       - name: Checkout Repository
-
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Important to allow branch creation
 
+      # Step 2: Configure Git
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      # Step 3: Create 'output' branch if missing
+      - name: Ensure Output Branch Exists
+        run: |
+          if ! git rev-parse --verify origin/output; then
+            git checkout --orphan output
+            git rm -rf .
+            git commit --allow-empty -m "Initialize output branch"
+            git push origin output
+          fi
 
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
+      # Step 4: Generate Snake
+      - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
-
         with:
-
-          # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
           outputs: |
+            dist/github-contribution-grid-snake.svg
 
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+      # Step 5: Commit and push
+      - name: Commit and Push Snake
+        run: |
+          git checkout output
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Snake" || echo "No changes to commit"
+          git push origin output
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
-        uses: peaceiris/actions-gh-pages@v3
-
-        with:
-
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output

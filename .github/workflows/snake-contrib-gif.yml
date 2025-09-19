@@ -10,6 +10,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+        
       - name: Create assets folder
         run: mkdir -p assets
         

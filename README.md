@@ -1,13 +1,13 @@
 # 🏄‍♂️ Shubham Pawar
 
-**`Aspiring Backend Engineer (Developer/Builder/Learner)`**
+**`I TRY TO DO BACKEND STUFF 🙂`**
 
 I'm an aspiring backend engineer building my version of scalable systems one step at a time. All coding projects I take on are designed from the ground up — from data structures and algorithms, to systems-level design, to deploying real-world solutions in a Linux environment. My ultimate goal: build high-performance backend services and data-driven machine learning systems.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
          <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
+      <a href="https://www.instagram.com/shubham_2k04/" target="_blank">
          <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <!--
       <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">   

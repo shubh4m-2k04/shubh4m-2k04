@@ -6,38 +6,13 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
    <p align="left">
       <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
-         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
-         <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers" target="_blank">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-      <!-- Future: Uncomment when ready -->
-
-      <!--
-      <a href="https://x.com/YOUR_HANDLE" target="_blank">
-         <img alt="Twitter / X" title="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-      <a href="https://www.threads.net/@YOUR_HANDLE" target="_blank">
-         <img alt="Threads" title="Follow on Threads" src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-
-      <a href="https://www.youtube.com/@YOUR_HANDLE" target="_blank">
-         <img alt="YouTube" title="Subscribe on YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-      <a href="https://medium.com/@YOUR_HANDLE" target="_blank">
-         <img alt="Medium" title="Read on Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
-      <a href="https://dev.to/YOUR_HANDLE" target="_blank">
-         <img alt="Dev.to" title="Follow on Dev.to" src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-
-      <a href="https://discord.gg/YOUR_INVITE" target="_blank">
-         <img alt="Discord" title="Join on Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-      <a href="https://reddit.com/u/YOUR_HANDLE" target="_blank">
-         <img alt="Reddit" title="Follow on Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-      -->
    </p>
 
 ---

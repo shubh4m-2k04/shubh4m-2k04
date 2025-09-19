@@ -9,16 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          ref: ${{ github.head_ref }}
+        uses: actions/checkout@v3
+      - name: Create assets folder
+        run: mkdir -p assets
+        
       - name: Generate Snake
         uses: Platane/snk/svg-only@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: shubh4m-2k04
           outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark   
+            output/github-snake.svg
+            ouput/github-snake-dark.svg?palette=github-dark   
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Commit and push the changes
@@ -26,6 +27,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5.2.0
         with:
           commit_message: ":snake: Updates Snake Contribution Animation"
-          commit_user_name: FindingAkash
-          commit_user_email: bot@akashrajpurohit.com
+          commit_user_name: shubham
+          commit_user_email: theshubham1412@gmail.com
+          commit_author: Shubham Pawar <theshubham1412@gmail.com>
           commit_author: FindingAkash <bot@akashrajpurohit.com>

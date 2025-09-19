@@ -6,16 +6,14 @@
 
 Aspiring Backend Engineer with a focus on building scalable, high-performance systems. Proficient in Data Structures & Algorithms, Object-Oriented Programming, and building end-to-end data systems on a Linux environment. Eager to apply systems-level knowledge to develop scalable backend services and data-driven machine learning solutions.
 
-<!-- Social Links -->
-
 <!-- 🌐 Social Links -->
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
-    <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <!-- Future: Uncomment when ready -->
@@ -29,26 +27,15 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
   </a>
 
   <a href="https://x.com/YOUR_HANDLE" target="_blank">
-    <img alt="Twitter / X" title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img alt="Twitter / X" title="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
   <a href="https://www.threads.net/@YOUR_HANDLE" target="_blank">
-    <img alt="Threads" title="Follow on Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+    <img alt="Threads" title="Follow on Threads" src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
   </a>
   -->
 </p>
 
-<!--
-
-<a href="https://github.com/shubh4m-2k04?tab=followers">
-
-   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-<a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers">
-
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
--->
 
 ---
 

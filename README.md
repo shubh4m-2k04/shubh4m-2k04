@@ -8,12 +8,36 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
       <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
          <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
-         <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers" target="_blank">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+
+<!-- External Social Links: Uncomment when needed -->
+
+
+<p align="left">
+  <a href="https://x.com/YOUR_HANDLE" target="_blank">
+    <img alt="Twitter / X" title="Follow on Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+
+  <a href="https://www.threads.net/@YOUR_HANDLE" target="_blank">
+    <img alt="Threads" title="Follow on Threads" src="https://custom-icon-badges.demolab.com/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+
+  <a href="https://www.facebook.com/YOUR_HANDLE" target="_blank">
+    <img alt="Facebook" title="Follow on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+  <a href="https://www.youtube.com/c/YOUR_HANDLE" target="_blank">
+    <img alt="YouTube" title="Subscribe to my YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+  <a href="https://medium.com/@YOUR_HANDLE" target="_blank">
+    <img alt="Medium" title="Follow on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+  <a href="https://dev.to/YOUR_HANDLE" target="_blank">
+    <img alt="Dev.to" title="Follow on Dev.to" src="https://custom-icon-badges.demolab.com/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</p>
 
 ---
 

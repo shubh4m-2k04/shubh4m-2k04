@@ -74,14 +74,13 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<!-- github and bash -->
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+
+<!-- CMkae -->
+<img align="left" alt="CMake" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
 
 
 <br />

@@ -1,6 +1,6 @@
-# 🏄‍♂️ Shubham Pawar
+# 🐻 Shubham Pawar
 
-**`I TRY TO DO BACKEND STUFF 🙂`**
+**`I TRY TO DO BACKEND STUFF `**
 
 I'm an aspiring backend engineer building my version of scalable systems one step at a time. All coding projects I take on are designed from the ground up — from data structures and algorithms, to systems-level design, to deploying real-world solutions in a Linux environment. My ultimate goal: build high-performance backend services and data-driven machine learning systems.
 

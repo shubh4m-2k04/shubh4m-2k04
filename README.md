@@ -52,11 +52,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 </p>
 
 -->
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/output/output/github-snake.svg)
-
-![Snake animation dark](https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/output/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/output/output/github-snake-dark.svg" />
 
 
 ---

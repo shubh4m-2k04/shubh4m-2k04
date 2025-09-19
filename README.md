@@ -53,7 +53,8 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 -->
 
-![Snake animation](https://github-readme-stats.vercel.app/api/wakatime?username=shubh4m-2k04&theme=gruvbox&snake=true)
+![Snake animation](https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=gruvbox&snake=true)
+
 
 ---
 

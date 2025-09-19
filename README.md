@@ -1,13 +1,13 @@
-# 🏄‍♂️ Shubham Pawar
+# 🐹 Shubham Pawar
 
-**`Aspiring Backend Engineer (Developer/Builder/Learner)`**
+**`I TRY TO DO BACKEND STUFF `**
 
 I'm an aspiring backend engineer building my version of scalable systems one step at a time. All coding projects I take on are designed from the ground up — from data structures and algorithms, to systems-level design, to deploying real-world solutions in a Linux environment. My ultimate goal: build high-performance backend services and data-driven machine learning systems.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
          <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
+      <a href="https://www.instagram.com/shubham_2k04/" target="_blank">
          <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <!--
       <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">   
@@ -53,31 +53,41 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 -->
 
-![Snake animation](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/dist/github-contribution-grid-snake.svg)
-
-
+<img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/main/output/github-snake-dark.svg" />
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
+
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
+
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/bash-dark.svg"/>
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<!-- github and bash -->
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/github-dark.svg"/>
+
+
+
+<!-- CMkae -->
+<img align="left" alt="CMake" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons/cmake-dark.svg"/>
+
 
 <br />
 

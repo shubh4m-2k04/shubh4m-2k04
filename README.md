@@ -6,18 +6,18 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
    <p align="left">
       <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
-         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A4D8F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
          <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">
+      <a href="https://github.com/shubh4m-2k04?tab=followers" target="_blank">     <!-- commented
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers" target="_blank">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+-->
 
 <!-- External Social Links: Uncomment when needed -->
-
+<!--
 
 <p align="left">
   <a href="https://x.com/YOUR_HANDLE" target="_blank">
@@ -38,7 +38,7 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
   <a href="https://dev.to/YOUR_HANDLE" target="_blank">
     <img alt="Dev.to" title="Follow on Dev.to" src="https://custom-icon-badges.demolab.com/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
-
+-->
 ---
 
 ### 🧰 Languages and Tools

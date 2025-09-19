@@ -52,8 +52,8 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 </p>
 
 -->
-<img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/output/github-snake-dark.svg" />
 
+<img src="https://raw.githubusercontent.com/shubh4m-2k04/shubh4m-2k04/main/output/github-snake-dark.svg" />
 
 ---
 

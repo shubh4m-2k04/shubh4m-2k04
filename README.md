@@ -7,51 +7,52 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 
 ---
 
-<p align="left">
-   <!--
-   <a href="https://github.com/shubh4m-2k04?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   -->
-   <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
-      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
-      <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+
+<!--
+<a href="https://github.com/shubh4m-2k04?tab=followers">
+   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shubh4m-2k04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/shubh4m-2k04?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shubh4m-2k04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+-->
+<a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
+   <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
+   <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
 
 ---
 
 ### 🧰 Languages and Tools
+<div align="center">
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-mark.svg" />
+<img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-
-<!-- Lighter C++ icon -->
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<!-- Lighter GitHub icon -->
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-mark.svg" />
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<br />
+</div>
 
 ---
 
 ### 📊 Stats
+<div align="center">
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh4m-2k04&show_icons=true&theme=gruvbox)
+
+</div>
 
 ---
 
 ### 🐍 Contribution Snake
+<div align="center">
 
 ![Snake animation](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/github-contribution-grid-snake.svg)
 
 ![snake gif](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/github-contribution-grid-snake.gif)
+
+</div>

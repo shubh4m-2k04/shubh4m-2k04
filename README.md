@@ -43,4 +43,15 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 
 ### 🐍 Contribution Snake
 
+![Snake animation](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
 ![snake gif](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/github-contribution-grid-snak

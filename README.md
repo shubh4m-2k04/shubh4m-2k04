@@ -10,10 +10,10 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/shubh4m.2k04" target="_blank">
-    <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <!-- Future: Uncomment when ready -->
@@ -27,11 +27,11 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
   </a>
 
   <a href="https://x.com/YOUR_HANDLE" target="_blank">
-    <img alt="Twitter / X" title="Follow on Twitter" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img alt="Twitter / X" title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
   <a href="https://www.threads.net/@YOUR_HANDLE" target="_blank">
-    <img alt="Threads" title="Follow on Threads" src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+    <img alt="Threads" title="Follow on Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
   </a>
   -->
 </p>
@@ -43,7 +43,7 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 
 <p>
 
-   <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
   <img alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
@@ -57,30 +57,22 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 
   <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  <img alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
-  <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-  
+  <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#gh-light-mode-only" />
+  <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#gh-dark-mode-only" />
 
 </p>
 
 <!-- Future Skills -->
 
 <!--
-
 <p>
-
   <img alt="Rust" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-
   <img alt="Kafka" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-
   <img alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
   <img alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
 </p>
-
 -->
 
 ---
@@ -94,4 +86,3 @@ Aspiring Backend Engineer with a focus on building scalable, high-performance sy
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/shubh4m-2k04/shubh4m-2k04/blob/output/github-contribution-grid-snake.svg)
-

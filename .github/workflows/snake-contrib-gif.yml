@@ -22,7 +22,7 @@ jobs:
           github_user_name: shubh4m-2k04
           outputs: |
             output/github-snake.svg
-            ouput/github-snake-dark.svg?palette=github-dark   
+            output/github-snake-dark.svg?palette=github-dark   
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Commit and push the changes

@@ -4,9 +4,6 @@
 **`I TRY DO BACKEND STUFF!!`**
 
 Aspiring Backend Engineer with a focus on building scalable, high-performance systems. Proficient in Data Structures & Algorithms, Object-Oriented Programming, and building end-to-end data systems on a Linux environment. Eager to apply systems-level knowledge to develop scalable backend services and data-driven machine learning solutions.
-
----
-
 <!-- Social Links -->
 <a href="https://www.linkedin.com/in/shubham-pawar-2k04" target="_blank">
    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

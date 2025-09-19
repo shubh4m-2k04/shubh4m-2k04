@@ -1,27 +1,33 @@
 name: Generate Snake Animation
 
+# Trigger workflow every 2 hours or manually
 on:
-  schedule: # every 12 hours
+  schedule:
     - cron: "0 */2 * * *"
-  workflow_dispatch: # allows manual run
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Install Platane SNK
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: shubh4m-2k04
+          github_user_name: shubh4m-2k04   # <-- your GitHub username
           outputs: dist/github-contribution-grid-snake.svg
 
+      # Step 3: Push to output branch
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: EndBug/add-and-commit@v9   # More reliable than ghaction-github-pages
         with:
-          target_branch: output
-          build_dir: dist
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
